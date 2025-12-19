@@ -8,6 +8,8 @@
 
 The backend handles all business logic, data persistence, authentication, and authorization, exposing well-defined endpoints for parking spot discovery, reservation management, user authentication, and ticket validation. It implements enterprise-grade security with JWT-based authentication and follows industry best practices for RESTful API design.
 
+Both a desktop and a mobile view are available.
+
 ## Key Features
 
 ### Authentication & Security
